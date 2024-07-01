@@ -37,7 +37,7 @@ body {
     width: 75px;
     height: 3px;
     border-radius: 3px;
-    background: rgb(23, 124, 229);
+    background: #09f;
     position: absolute;
     bottom: -10px;
     left: 50%;
@@ -65,7 +65,7 @@ body {
     content: '';
     width: 20px;
     height: 2px;
-    background: rgb(23, 124, 229);
+    background: #09f;
     position: absolute;
     top: 50%;
     left: -30px;
@@ -79,10 +79,10 @@ body {
 }
 
 .quote-box button {
-    background: rgb(23, 124, 229);
+    background: #09f;
     color: #fff;
     border-radius: 25px;
-    border: 1px solid rgb(23, 124, 229);
+    border: 1px solid #09f;
     width: 150px;
     height: 50px;
     display: flex;
@@ -99,7 +99,7 @@ body {
 
 .quote-box button:nth-child(2) {
    background: transparent;
-   color: #333; 
+   color: #222; 
 }
 
 @media only screen and (min-width: 640px) {
